@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "jvm.h": "c",
+    "jvm_md.h": "c",
+    "xlocale": "cpp",
+    "xutility": "cpp",
+    "xstring": "cpp",
+    "xmemory": "cpp"
+  }
+}
